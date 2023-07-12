@@ -22,3 +22,4 @@ bitsandbytes==0.39.1
 llama-cpp-python==0.1.70
 auto-gptq==0.2.2
 git+https://github.com/jllllll/exllama@5a6674d030302996d8dc7cb04be1292383aa2755
+torch
